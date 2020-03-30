@@ -1,0 +1,11 @@
+C:\Code\Pro.1.4 - FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.exe
+C:\Code\Pro.1.4 - FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.deps.json
+C:\Code\Pro.1.4 - FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.runtimeconfig.json
+C:\Code\Pro.1.4 - FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.runtimeconfig.dev.json
+C:\Code\Pro.1.4 - FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.dll
+C:\Code\Pro.1.4 - FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.pdb
+C:\Code\Pro.1.4 - FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.csprojAssemblyReference.cache
+C:\Code\Pro.1.4 - FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.AssemblyInfoInputs.cache
+C:\Code\Pro.1.4 - FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.AssemblyInfo.cs
+C:\Code\Pro.1.4 - FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.dll
+C:\Code\Pro.1.4 - FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.pdb
